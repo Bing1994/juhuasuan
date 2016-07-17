@@ -1,0 +1,58 @@
+/*头部*/
+.head{width: 16rem;height: 2.5rem;background: linear-gradient(#fff,#ebebeb);text-align: center;position: relative;}
+.logo{width: 3.7rem;display: inline-block;margin-top: 0.75rem;}
+.back{width: 3.05rem;height: 1.45rem;background: url(../img/back.png);display: inline-block;background-size: cover;position: absolute;left: 1rem;top: 0.525rem;}
+
+/*底部*/
+.f-nav{width: 16rem;height:2.2rem;background: #f8f8f8;padding-left: 0.175rem;}
+.f-nav a{font-size:0.7rem;color:#333;line-height: 2.2rem;padding: 0.575rem;}
+.f-nav a:last-child{float: right;line-height: 2.2rem;padding:0 1.4rem 0;}
+.f-nav a:last-child em{background: url(../img/up.png);width: 0.425rem;margin-left:0.5rem;height: 0.225rem;display: inline-block;background-size:cover;}
+.f-end{width: 16rem;background: #eee;text-align: center;}
+.f-end p{padding-top: 1rem;margin-bottom: 0.85rem; line-height: 100%;}
+.f-end p a{font-size: 0.7rem;color: #333;}
+.f-end span{font-size: 0.55rem;color: #999;}
+
+/*banner 广告*/
+.banner{width: 16rem;}
+.b-pic{height: 6.7rem;}
+.b-pic img{width: 100%;}
+.b-box{display:-webkit-box;-webkit-box-pack:center;}
+.b-btn li{width: 0.25rem;height: 0.25rem;background: #a9a9a9;border-radius: 50%;float: left;margin: 0.5rem 0.125rem;}
+
+/*nav*/
+.nav{padding: 0 0.5rem;}
+.nav a{width:3.75rem; float:left; padding-top:1rem;text-align: center;}
+.nav a img{width: 2rem;height: 2rem;display: block;margin:0 auto;margin-bottom: 0.475rem;}
+.nav i{width: 0.25rem;height: 0.25rem;background: #d51938;border-radius: 50%;display: inline-block;margin-right: 0.3rem}
+
+/*hot*/
+.hot{padding: 0 0.5rem;margin-top: 1.15rem;}
+.hot h1{border-left: 0.1rem solid #d51938;height: 0.75rem ;font-size: 0.7rem; line-height: 0.75rem; padding-left: 0.45rem;}
+.hot hr{color: #dcdcdc;margin-top: 0.5rem;margin-bottom: 0.775rem;}
+
+.list li{height: 3rem;margin-bottom: 0.5rem;background: #f4f4f4;}
+.list .num{width: 1.5rem;height: 3rem;background: #e00202;font-size: 1.2rem;color: #fff;text-align: center;line-height: 3rem;float: left; font-weight: bold;}
+.list .master{height: 100%;float: left;}
+.list .cont{float: left;margin-left: 0.5rem;margin-top: 0.7rem;}
+.list .cont span{font-size: 0.6rem;color: #999;}
+.list .cont em{color: #c7223d;font-size: 0.6rem;}
+.list .cont i{font-size: 0.6rem; text-decoration: line-through;}
+.price{font-size: 0.8rem;color: #d51938;float: right;line-height: 3rem;margin-right: 0.55rem;}
+.list .next{float: right;margin-right:0.675rem;margin-top: 1.1rem; }
+
+.more{height: 2rem;background: #f5f5f5;color:#666;margin: 0 0.5rem 0.5rem;font-size: 0.7rem;line-height: 2rem;text-align: center;}
+.more img{float: right;margin-top: 0.8rem;margin-right: 0.5rem;}
+
+.goods-list{padding: 0 0.5rem 0.5rem;}
+.goods-list dt,.goods-list dd{ float:left;width:3.75rem; box-sizing:border-box;}
+.goods-list dt{ color:#fff;font-size:0.7rem;padding:0.65rem 0.8rem 0 0 ;text-align:right;background:#ff3900 url(../img/tuan-01.png) left bottom no-repeat; height:8.8rem;  background-size:100%; margin-top:-1px;}
+.goods-list dd{ height:2.24rem; text-align:center; line-height:2.24rem; border:1px solid #CCC; margin-left:-1px; margin-top:-1px;}
+.goods-list dd a{font-size:0.7rem; }
+
+.client{margin: 0  0.5rem  0.5rem ; padding-top: 0.55rem;}
+.client div{width:5rem;height: 4rem;float: left; padding-top: 0.8rem;text-align: center;}
+.client div span{font-size: 0.6rem;color: #fff;margin-top: 0.7rem;display: block;}
+.client div img{width: 1.3rem;height: 1.3rem;}
+
+
